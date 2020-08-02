@@ -1,0 +1,32 @@
+
+*Variables:
+	
+	Esto lo representamos con un nombre, dandole un valor y nos ayuda a generar 		operaciones.
+
+*Strings:
+
+	Es un tipo de dato Nativo, compuesto por caracteres y se lo delimita dentro de 		comillas.
+
+*Funciones:
+
+	Esto nos ayudan en el momento de no escribir el mismo código varias veces, 		logrando agrupar los códigos y así ejecutar.
+
+*Argumentos:
+
+	Se declara como una variable, pero esta no tiene valor hasta que se la invoque.
+
+*Return:
+
+	Usamos Return para recibir la información o resultado de la función ejecutada.
+
+*Declaracion IF: 
+
+	Es la condición que nos ayuda generar la lógica dentro de las funciones.
+
+*Valores Booleanos:
+
+	Solamente se maneja 2 valores y nos ayuda a decidir en la operación si es 		verdadero o falso (true/ False), y a su vez se encuentran reservado
+
+	
+
+		
