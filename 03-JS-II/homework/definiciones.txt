@@ -1,0 +1,10 @@
+Deficioniciones
+
+			
+*For: 
+	Nos permite crear repeticiones o bucles de una forma sencilla.
+
+
+* Operador logicos (&& || !)
+ 
+	Estos 3 tipos de operadores básicos (&&, ||, !), nos ayudan a determinar si ambas  	expresiones son true o false dependiendo del operador utilizado
